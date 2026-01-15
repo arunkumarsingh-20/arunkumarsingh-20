@@ -55,13 +55,23 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunkumarsingh-20&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarsingh-20&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=arunkumarsingh-20&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarsingh-20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumarsingh-20&theme=tokyonight" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=arunkumarsingh-20&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
+
 
 ---
 
