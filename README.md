@@ -84,9 +84,6 @@
   <a href="https://codeforces.com/profile/arun_7609" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/arunsingh" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
 </p>
 
 ---
